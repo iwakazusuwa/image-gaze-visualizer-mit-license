@@ -46,4 +46,7 @@ project_root/
 
 本スクリプトは「個別ユーザーの視線可視化」に特化しており、複数ユーザーに向けたヒートマップ描画は別手法を推奨しています。
 
-開発者： iwakazusuwa(Swatchp)
+## LICENSE
+MIT License（詳細はLICENSEファイルをご参照ください）
+
+#### 開発者： iwakazusuwa(Swatchp)
