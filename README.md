@@ -26,7 +26,7 @@ pip install pandas numpy matplotlib japanize_matplotlib
 project_root/
 ├── visualize_gaze.py        # メインの視線可視化スクリプト
 ├── sample.csv               # サンプル視線データ（CSV）
-├── fish.png                 # 対象画像（広告など）
+├── fish.png                 # 対象画像（1360×840） 
 ├── README.md
 └── LICENSE
 ```
